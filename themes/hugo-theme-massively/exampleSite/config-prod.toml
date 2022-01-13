@@ -1,6 +1,6 @@
-languageCode = "fr-fr"
-title = "Ghis'Gallery"
-baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Massively"
+baseURL = "https://hugo-theme-massively.netlify.com/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
@@ -16,13 +16,17 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 # [params.posts]
 #     folderName = "post"
 #     pageSize = "6"
-#     featuredPost = true
+#     featuredPost = "true"
 #     paginationPages = 2
 #     showFirstLast = false
- 
+
 [languages]
 [languages.en]
   languageName = "English"
-[languages.fr]
-languageName = "Français"
-title = "Massively - Version Française"
+[languages.es]
+  languageName = "Español"
+  title = "Massively - Versión Español"
+#[languages.fr]
+#  languageName = "Français"
+#  title = "Massively - Version Française"
+

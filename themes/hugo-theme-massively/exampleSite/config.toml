@@ -1,5 +1,5 @@
-languageCode = "fr-fr"
-title = "Ghis'Gallery"
+languageCode = "en-us"
+title = "Massively"
 baseURL = "http://localhost:1313/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
@@ -23,6 +23,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [languages]
 [languages.en]
   languageName = "English"
-[languages.fr]
-languageName = "Français"
-title = "Massively - Version Française"
+[languages.es]
+  languageName = "Español"
+  title = "Massively - Versión Español"
+#[languages.fr]
+#  languageName = "Français"
+#  title = "Massively - Version Française"

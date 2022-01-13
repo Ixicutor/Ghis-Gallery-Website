@@ -1,6 +1,6 @@
 languageCode = "fr-fr"
 title = "Ghis'Gallery"
-baseURL = "https://sleepy-euclid-470a7d.netlify.app/"
+baseURL = "https://ghis-gallery.netlify.app/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""

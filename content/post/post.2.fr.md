@@ -1,9 +1,9 @@
 +++
-title = 'About me'
+title = 'A propos de moi'
 slug = 'post2'
 image = 'images/me.jpg'
 date = "2022-01-12T00:00:00"
-description = 'Section were you can know me better .'
+description = 'Une section permettant de mieux me connaître.'
 disableComments = true
 +++
 

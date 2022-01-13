@@ -25,4 +25,4 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   languageName = "English"
 [languages.fr]
 languageName = "Français"
-title = "Massively - Version Française"
+title = "Ghis'Gallery- Version Française"

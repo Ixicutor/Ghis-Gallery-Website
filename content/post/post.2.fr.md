@@ -12,9 +12,9 @@ disableComments = true
 Je suis un **ingénieur français** étudiant à l'IPSA et je suis de Colombes près de Paris. 
 
 Je suis un fan de sport automobile de Formule 1, de films.
-Je soutiens **Valterie Bottas :**
+Je soutiens **Valtteri Bottas :**
 
-![This is Valterie Botas](https://cdn.discordapp.com/attachments/931208257673003048/931209724735656006/f1-bottas-mercedes_0.png)
+![This is Valtteri Bottas](https://cdn.discordapp.com/attachments/931208257673003048/931209724735656006/f1-bottas-mercedes_0.png)
 
 Mes films préférés sont : **Hacksaw Ridge**, **Batman- Dark Knight** et **Top Gun**.
 

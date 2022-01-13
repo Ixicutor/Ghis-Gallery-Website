@@ -1,6 +1,6 @@
 languageCode = "fr-fr"
 title = "Ghis'Gallery"
-baseURL = "http://localhost:1313/"
+baseURL = "https://ghis-gallery.gitlab.io/website/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""

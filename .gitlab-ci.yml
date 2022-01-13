@@ -16,7 +16,7 @@ test:
     - hugo
   except:
     variables:
-      - master
+      - $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
 
 pages:
   script:
@@ -26,5 +26,5 @@ pages:
       - public
   only:
     variables:
-      - master
+      - $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
 
